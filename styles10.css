@@ -1,0 +1,85 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+}
+.d1{
+    width: 200px;
+    height: 150px;
+    background-color: coral;
+    color: aqua;
+    font-size: 34px;
+    text-align: center;
+     padding-top: 70px;
+    margin-bottom: 10px;
+}
+.d1:hover{
+      background-color: darkgray;
+      width: 220px;
+}
+.d2{
+    width: 200px;
+    height:  150px ;
+    background-color: rgb(231, 238, 29);
+    color: rgb(203, 39, 157);
+     font-size: 34px;
+    text-align: center;
+     padding-top: 70px;
+}
+.d2:hover{
+      background-color: rgb(185, 15, 15);
+      width: 220px;
+}
+.d3{
+    width: 200px;
+    height:   150px;
+    background-color: rgb(198, 60, 9);
+    color: rgb(112, 194, 35);
+     font-size: 34px;
+    text-align: center;
+     padding-top: 70px;
+}
+.d3:hover{
+      background-color: rgb(27, 42, 207);
+      width: 220px;
+}
+.d4{
+    width: 200px;
+    height:   150px;
+    background-color: rgb(199, 41, 193);
+    color: rgb(93, 185, 47);
+     font-size: 34px;
+    text-align: center;
+     padding-top: 70px;
+}
+.d4:hover{
+      background-color: rgb(169, 169, 169);
+      width: 220px;
+}
+.d5{
+    width: 200px;
+    height:   150px;
+    background-color: rgb(38, 215, 207);
+    color: rgb(19, 19, 19);
+     font-size: 34px;
+    text-align: center;
+     padding-top: 70px;
+}
+.d5:hover{
+      background-color: rgb(226, 163, 15);
+      width: 220px;
+}
+.d6{
+    width: 200px;
+    height:   150px;
+    background-color: rgb(166, 27, 27);
+    color: rgb(248, 251, 251);
+     font-size: 34px;
+    text-align: center;
+     padding-top: 70px;
+}
+.d6:hover{
+      background-color: rgb(20, 22, 31);
+      width: 220px;
+}
