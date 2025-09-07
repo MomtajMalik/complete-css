@@ -1,0 +1,13 @@
+.main{
+    width: 1000px;
+    height: 500px;
+    border: 2px solid rosybrown;
+    overflow: scroll;
+    /* overflow:hidden;
+      overflow:scroll;
+      overflow-x:scroll;
+      overflow-y:scroll;
+       overflow-y:hidden;
+        overflow-x:hidden;
+    */
+}

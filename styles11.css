@@ -13,3 +13,22 @@
     background-color: brown;
     color: black;
 }
+.main1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(86, 226, 43);
+    color: rgb(0, 0, 0);
+    border-bottom: 4px solid rgb(194, 71, 9);
+     border-top: 4px solid rgb(194, 71, 9);
+    border-left: 4px solid blue;
+    border-right: 4px solid blue;
+    text-align: center;
+    font-size: 36px;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+.main1:hover{
+    border-radius: 20px;
+    background-color: rgb(42, 85, 165);
+    color: black;
+}
